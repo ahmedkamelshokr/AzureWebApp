@@ -32,7 +32,7 @@ namespace AzureWEbApp
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("QA:second commit Hello water World!!!");
+                    await context.Response.WriteAsync("Master changed!!!");
                 });
             });
         }
