@@ -32,7 +32,7 @@ namespace AzureWEbApp
             {
                 endpoints.MapGet("/", async context =>
                 {
-                    await context.Response.WriteAsync("Master changed!!!");
+                    await context.Response.WriteAsync("test using docker files!!!");
                 });
             });
         }
