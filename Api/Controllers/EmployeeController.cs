@@ -22,7 +22,7 @@ namespace Api.Controllers
 
         //GET: Employee/Details/5
         [HttpGet]
-        [Route("get/id")]
+        [Route("details/{id?}")]
         public Employee Details(int id)
         {
             return manager.Get(id);
