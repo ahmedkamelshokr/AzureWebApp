@@ -28,9 +28,9 @@ namespace Api.Controllers
             return manager.Get(id);
         }
         [HttpGet]
-        public Employee Get()
+        public IEnumerable<Employee> Get()
         {
-            return manager.Get(1);
+            return manager.GetAll();
         }
 
     }

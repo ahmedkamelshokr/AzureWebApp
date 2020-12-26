@@ -1,6 +1,7 @@
 ﻿using Dapper;
 using Entites;
 using System;
+using System.Collections.Generic;
 using System.Data.SqlClient;
 
 namespace DAL
@@ -24,6 +25,17 @@ namespace DAL
             finally
             { Connection.Close(); }
 
+        }
+
+        public IEnumerable<Employee> GetAll()
+        {
+            try
+            {
+                Connection.Open();
+                return Connection.Query<Employee>("SELECT * FROM dbo.Employee AS e " );
+            }
+            finally
+            { Connection.Close(); }
         }
     }
 }
