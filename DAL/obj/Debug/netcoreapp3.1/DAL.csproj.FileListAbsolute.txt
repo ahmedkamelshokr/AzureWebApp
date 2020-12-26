@@ -1,0 +1,12 @@
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\bin\Debug\netcoreapp3.1\DAL.deps.json
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\bin\Debug\netcoreapp3.1\DAL.dll
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.csprojAssemblyReference.cache
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfoInputs.cache
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.AssemblyInfo.cs
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\bin\Debug\netcoreapp3.1\Entites.dll
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\bin\Debug\netcoreapp3.1\DAL.pdb
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\bin\Debug\netcoreapp3.1\Entites.pdb
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CoreCompileInputs.cache
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.csproj.CopyComplete
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.dll
+C:\A Kamel\projects\CDP\AzureWebApp\DAL\obj\Debug\netcoreapp3.1\DAL.pdb

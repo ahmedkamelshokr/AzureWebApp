@@ -1,0 +1,9 @@
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\bin\Debug\netcoreapp3.1\Entites.deps.json
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\bin\Debug\netcoreapp3.1\Entites.dll
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\bin\Debug\netcoreapp3.1\Entites.pdb
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\obj\Debug\netcoreapp3.1\Entites.csprojAssemblyReference.cache
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\obj\Debug\netcoreapp3.1\Entites.csproj.CoreCompileInputs.cache
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfoInputs.cache
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\obj\Debug\netcoreapp3.1\Entites.AssemblyInfo.cs
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\obj\Debug\netcoreapp3.1\Entites.dll
+C:\A Kamel\projects\CDP\AzureWebApp\Entites\obj\Debug\netcoreapp3.1\Entites.pdb
